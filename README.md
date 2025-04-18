@@ -24,18 +24,7 @@ Faturamento por loja:
   * Loja 3 ficou em terceito lugar : R$ 1,464,025.03
   * Loja 4 teve o menor faturamento: R$ 1,384,497.58
 
-As categorias mais vendidas:
-
-Categoria do Produto   Loja 1  Loja 2  Loja 3  Loja 4  TOTAL
-                                        
-móveis                    465     442     499     480   1886
-eletrônicos               448     422     451     451   1772
-brinquedos                324     313     315     338   1290
-eletrodomésticos          312     305     278     254   1149
-esporte e lazer           284     275     277     277   1113
-instrumentos musicais     182     224     177     170    753
-livros                    173     197     185     187    742
-utilidades domésticas     171     181     177     201    730
+As categorias mais vendidas são móveis seguido por eletrônicos e brinquedos.
 
 O custo médio por frete
 
