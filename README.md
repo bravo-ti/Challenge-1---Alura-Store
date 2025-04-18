@@ -26,10 +26,9 @@ Faturamento por loja:
 
 As categorias mais vendidas são móveis seguido por eletrônicos e brinquedos.
 
-O custo médio por frete
+O custo médio por frete por loja:
 
-   	   Frete Médio
-Loja 1	34.691805 
-Loja 2	33.621941
-Loja 3	33.074464
-Loja 4	31.278997
+ Loja 1	34.691805 
+ Loja 2	33.621941
+ Loja 3	33.074464
+ Loja 4	31.278997
